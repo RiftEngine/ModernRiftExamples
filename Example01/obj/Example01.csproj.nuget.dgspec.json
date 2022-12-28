@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\REMCodes\\Desktop\\ModernRift\\Examples\\Example01\\Example01.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\REMCodes\\Desktop\\ModernRift\\Examples\\Example01\\Example01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\REMCodes\\Desktop\\ModernRift\\Examples\\Example01\\Example01.csproj",
+        "projectName": "Example01",
+        "projectPath": "D:\\Users\\REMCodes\\Desktop\\ModernRift\\Examples\\Example01\\Example01.csproj",
+        "packagesPath": "C:\\Users\\rowan\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\REMCodes\\Desktop\\ModernRift\\Examples\\Example01\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rowan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Users\\REMCodes\\Documents\\Programming\\CSharp\\ModernRift\\bin\\Release": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Rift.ModernRift.Core": {
+              "target": "Package",
+              "version": "[0.0.1-alpha, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

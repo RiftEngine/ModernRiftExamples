@@ -1,0 +1,12 @@
+﻿{
+  "Config": {
+    "name": "Number Guessing Game + Maximum Guess Count of Increasing Difficulty & High Score",
+    "description": "A number guessing game",
+    "creatorName": "ModernRift",
+    "version": "1.0",
+    "windowTitle": "ModernRift Example 02, Challenge 3: Number Guessing Game + Maximum Guess Count of Increasing Difficulty & High Score",
+    "prompt": "Enter Command: ",
+    "backgroundColor": "DarkBlue",
+    "textColor": "White"
+  }
+}

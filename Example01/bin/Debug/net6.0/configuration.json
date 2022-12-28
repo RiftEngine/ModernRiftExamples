@@ -1,0 +1,12 @@
+﻿{
+  "Config": {
+    "name": "ModernRift Example 01",
+    "description": "A simple “Hello, world!” program using ModernRift",
+    "creatorName": "ModernRift",
+    "version": "1.0",
+    "windowTitle": "ModernRift Example 01: A “Hello, world!” program",
+    "prompt": "Enter Command: ",
+    "backgroundColor": "DarkBlue",
+    "textColor": "White"
+  }
+}
