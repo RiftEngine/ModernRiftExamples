@@ -12,7 +12,6 @@ D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\bin\Debug\net6.0\Microso
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\bin\Debug\net6.0\Rift.ModernRift.Core.dll
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\obj\Debug\net6.0\Example01.csproj.AssemblyReference.cache
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\obj\Debug\net6.0\Example01.GeneratedMSBuildEditorConfig.editorconfig
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\obj\Debug\net6.0\Example01.AssemblyInfoInputs.cache
@@ -25,3 +24,4 @@ D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\obj\Debug\net6.0\Example
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\obj\Debug\net6.0\Example01.genruntimeconfig.cache
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\obj\Debug\net6.0\ref\Example01.dll
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\bin\Debug\net6.0\configuration.json
+D:\Users\REMCodes\Desktop\ModernRift\Examples\Example01\bin\Debug\net6.0\ModernRiftCore.dll

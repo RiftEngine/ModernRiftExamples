@@ -13,7 +13,6 @@ D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\bin\Debug\ne
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\bin\Debug\net6.0\Rift.ModernRift.Core.dll
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\obj\Debug\net6.0\Challenge04.csproj.AssemblyReference.cache
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\obj\Debug\net6.0\Challenge04.GeneratedMSBuildEditorConfig.editorconfig
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\obj\Debug\net6.0\Challenge04.AssemblyInfoInputs.cache
@@ -25,3 +24,4 @@ D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\obj\Debug\ne
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\obj\Debug\net6.0\Challenge04.pdb
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\obj\Debug\net6.0\Challenge04.genruntimeconfig.cache
 D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\obj\Debug\net6.0\ref\Challenge04.dll
+D:\Users\REMCodes\Desktop\ModernRift\Examples\Example02\Challenge04\bin\Debug\net6.0\ModernRiftCore.dll

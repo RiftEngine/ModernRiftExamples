@@ -22,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Users\\REMCodes\\Documents\\Programming\\CSharp\\ModernRift\\bin\\Release": {},
+          "D:\\Users\\REMCodes\\Desktop\\ModernRift\\Core\\ModernRiftCore\\bin\\Debug": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +43,7 @@
           "dependencies": {
             "Rift.ModernRift.Core": {
               "target": "Package",
-              "version": "[0.0.1-alpha, )"
+              "version": "[0.0.2-alpha, )"
             }
           },
           "imports": [

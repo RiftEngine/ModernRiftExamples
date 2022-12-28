@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Challenge04/1.0.0": {
         "dependencies": {
-          "Rift.ModernRift.Core": "0.0.1-alpha"
+          "Rift.ModernRift.Core": "0.0.2-alpha"
         },
         "runtime": {
           "Challenge04.dll": {}
@@ -121,15 +121,15 @@
           }
         }
       },
-      "Rift.ModernRift.Core/0.0.1-alpha": {
+      "Rift.ModernRift.Core/0.0.2-alpha": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Binder": "6.0.0",
           "Microsoft.Extensions.Configuration.Json": "6.0.0"
         },
         "runtime": {
-          "lib/net6.0/Rift.ModernRift.Core.dll": {
-            "assemblyVersion": "0.0.1.0",
-            "fileVersion": "0.0.1.0"
+          "lib/net6.0/ModernRiftCore.dll": {
+            "assemblyVersion": "0.0.2.0",
+            "fileVersion": "0.0.2.0"
           }
         }
       },
@@ -216,12 +216,12 @@
       "path": "microsoft.extensions.primitives/6.0.0",
       "hashPath": "microsoft.extensions.primitives.6.0.0.nupkg.sha512"
     },
-    "Rift.ModernRift.Core/0.0.1-alpha": {
+    "Rift.ModernRift.Core/0.0.2-alpha": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2euXvOMoBSL9t4imqfEVaILxrtcO5hkj+5xrtatl4r7NLBUn+hId2UsqN2hNBLLYtlm8+oUpi490+MoeA5jljA==",
-      "path": "rift.modernrift.core/0.0.1-alpha",
-      "hashPath": "rift.modernrift.core.0.0.1-alpha.nupkg.sha512"
+      "sha512": "sha512-56/AprTSOrB79R+YQUgO0f3LTZY8axIhJ+UEdpdOW8S694UiXZbaV/LdvDEntSsihMotcSpy4MKdnFlYABsUjA==",
+      "path": "rift.modernrift.core/0.0.2-alpha",
+      "hashPath": "rift.modernrift.core.0.0.2-alpha.nupkg.sha512"
     },
     "System.Runtime.CompilerServices.Unsafe/6.0.0": {
       "type": "package",

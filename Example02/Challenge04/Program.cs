@@ -6,11 +6,7 @@ namespace Challenge04
     {
         static void Main(string[] args)
         {
-            Configuration configuration = new Configuration.ConfigurationBuilder()
-                .FromConfigFile("configuration.json")
-                .Build();
-
-            Engine.GameReference = new GameClass(configuration);
+            Engine.GameReference = new GameClass();
 
             Engine.Initialize();
 
@@ -107,9 +103,7 @@ namespace Challenge04
     }
 
     public class GameClass : Game
-    {
-        public GameClass(Configuration configuration) : base(configuration) { }
-
+    { 
         // Main Game
         Directive GenerateDirective;
         Directive UpdateSubroutineDirective;
@@ -130,7 +124,9 @@ namespace Challenge04
         Command ListHighScoreCommand;
 
         public override void Initialize()
-        {
+        { 
+            configuration = new Configuration.ConfigurationBuilder().FromConfigFile("configuration.json").Build();
+
             mainSubroutine = new LoopSubroutine();
 
             GenerateDirective = new Directive(() => { GenerateNumber(1, 10); });

@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Rift.ModernRift.Core" Version="0.0.1-alpha" />
+    <PackageReference Include="Rift.ModernRift.Core" Version="0.0.2-alpha" />
   </ItemGroup>
 
   <ItemGroup>

@@ -166,17 +166,17 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "Rift.ModernRift.Core/0.0.1-alpha": {
+      "Rift.ModernRift.Core/0.0.2-alpha": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.Configuration.Binder": "6.0.0",
           "Microsoft.Extensions.Configuration.Json": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/Rift.ModernRift.Core.dll": {}
+          "lib/net6.0/ModernRiftCore.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Rift.ModernRift.Core.dll": {}
+          "lib/net6.0/ModernRiftCore.dll": {}
         }
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {
@@ -434,14 +434,14 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Rift.ModernRift.Core/0.0.1-alpha": {
-      "sha512": "2euXvOMoBSL9t4imqfEVaILxrtcO5hkj+5xrtatl4r7NLBUn+hId2UsqN2hNBLLYtlm8+oUpi490+MoeA5jljA==",
+    "Rift.ModernRift.Core/0.0.2-alpha": {
+      "sha512": "56/AprTSOrB79R+YQUgO0f3LTZY8axIhJ+UEdpdOW8S694UiXZbaV/LdvDEntSsihMotcSpy4MKdnFlYABsUjA==",
       "type": "package",
-      "path": "rift.modernrift.core/0.0.1-alpha",
+      "path": "rift.modernrift.core/0.0.2-alpha",
       "files": [
         ".nupkg.metadata",
-        "lib/net6.0/Rift.ModernRift.Core.dll",
-        "rift.modernrift.core.0.0.1-alpha.nupkg.sha512",
+        "lib/net6.0/ModernRiftCore.dll",
+        "rift.modernrift.core.0.0.2-alpha.nupkg.sha512",
         "rift.modernrift.core.nuspec"
       ]
     },
@@ -554,7 +554,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Rift.ModernRift.Core >= 0.0.1-alpha"
+      "Rift.ModernRift.Core >= 0.0.2-alpha"
     ]
   },
   "packageFolders": {
@@ -578,7 +578,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Users\\REMCodes\\Documents\\Programming\\CSharp\\ModernRift\\bin\\Release": {},
+        "D:\\Users\\REMCodes\\Desktop\\ModernRift\\Core\\ModernRiftCore\\bin\\Debug": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -599,7 +599,7 @@
         "dependencies": {
           "Rift.ModernRift.Core": {
             "target": "Package",
-            "version": "[0.0.1-alpha, )"
+            "version": "[0.0.2-alpha, )"
           }
         },
         "imports": [

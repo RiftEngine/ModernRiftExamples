@@ -6,10 +6,7 @@ namespace Example01
     {
         static void Main(string[] args)
         {
-            Configuration configuration = new Configuration.ConfigurationBuilder()
-                .FromConfigFile("configuration.json")
-                .Build();
-            Engine.GameReference = new GameClass(configuration);
+            Engine.GameReference = new GameClass();
 
             Engine.Initialize();
 
@@ -19,6 +16,9 @@ namespace Example01
 
     public class GameClass : Game
     {
-        public GameClass(Configuration config) : base(config) { }
+        public override void Initialize()
+        {
+            configuration = new Configuration.ConfigurationBuilder().FromConfigFile("configuration.json").Build();
+        }
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZiKBPMXszszb68Np9A74pdxBYzuydmhVI4VE7hp+nnHNY8rRfRC/mYqXqm4N4vFIxMW3le+9woYooj/TA16b6Q==",
+  "dgSpecHash": "OBugQzS9U3sRpbBHjuMNQjd46w2Di5INRpkRiB4PXNc8/1ILfcphaaqxj9NQ42Sgsld47V4prxk5KO79LxUDlA==",
   "success": true,
   "projectFilePath": "D:\\Users\\REMCodes\\Desktop\\ModernRift\\Examples\\Example02\\Challenge04\\Challenge04.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,7 @@
     "C:\\Users\\rowan\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "C:\\Users\\rowan\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
     "C:\\Users\\rowan\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\rowan\\.nuget\\packages\\rift.modernrift.core\\0.0.1-alpha\\rift.modernrift.core.0.0.1-alpha.nupkg.sha512",
+    "C:\\Users\\rowan\\.nuget\\packages\\rift.modernrift.core\\0.0.2-alpha\\rift.modernrift.core.0.0.2-alpha.nupkg.sha512",
     "C:\\Users\\rowan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\rowan\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\rowan\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
